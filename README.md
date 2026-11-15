@@ -1,3 +1,29 @@
+# exo
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Run frontier AI locally.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+在本地运行前沿 AI 模型。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <div align="center">
 
 <picture>
